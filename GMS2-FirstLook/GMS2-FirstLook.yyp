@@ -2143,7 +2143,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/room_hello_world\/room_hello_world.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -4729,6 +4729,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/ShipTriangleOffscreen.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce4d2cb2-e993-43f7-8c94-80ef28283a50",
+            "Value": {
+                "id": "99a1f6fd-34cc-4ce6-a9e1-bb8e1e2ee30c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_hello_world_text\/obj_hello_world_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {
