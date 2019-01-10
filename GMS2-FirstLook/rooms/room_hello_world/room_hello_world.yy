@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "6c92b0e4-5ad9-4ee4-ba71-0d8963cfe745"
+        "6c92b0e4-5ad9-4ee4-ba71-0d8963cfe745",
+        "f0b481de-69b8-42cd-9e5c-906a366adbaf"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_29FBBCE7","id": "6c92b0e4-5ad9-4ee4-ba71-0d8963cfe745","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_29FBBCE7","objId": "ce4d2cb2-e993-43f7-8c94-80ef28283a50","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 384}
+{"name": "inst_29FBBCE7","id": "6c92b0e4-5ad9-4ee4-ba71-0d8963cfe745","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_29FBBCE7","objId": "ce4d2cb2-e993-43f7-8c94-80ef28283a50","properties": [],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 384},
+{"name": "inst_6FB282E2","id": "f0b481de-69b8-42cd-9e5c-906a366adbaf","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6FB282E2","objId": "ce4d2cb2-e993-43f7-8c94-80ef28283a50","properties": [{"id": "d1c52a69-d550-418b-b17a-d13c669af8c0","modelName": "GMOverriddenProperty","objectId": "ce4d2cb2-e993-43f7-8c94-80ef28283a50","propertyId": "ebf6f7f0-4fbe-4b52-b10f-b912d3b63aeb","mvc": "1.0","value": "Nice to see you again..."}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 480}
             ],
             "layers": [
 
