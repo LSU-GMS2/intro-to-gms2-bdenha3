@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Draws Hello World On Screen
+// Draw Hello World
 
 //Center the text based on its x,y position in the room
 draw_set_halign(fa_center);
