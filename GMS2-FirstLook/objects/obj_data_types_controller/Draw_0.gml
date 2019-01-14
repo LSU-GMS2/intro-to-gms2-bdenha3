@@ -39,5 +39,15 @@ else
 	draw_text(room_width * .5, line_height * 7, first_name + " is a minor." );
 }
 
+//Show result of a function that returns a boolean on eigth line
+if (keyboard_check(vk_space))
+{
+		draw_text(room_width * .5, line_height * 8, "You are pressing the space button" );
+}
+else
+{
+		draw_text(room_width * .5, line_height * 8, "You are not pressing the space button" );
+}
+
 //Return the alignment to its default setting
 draw_set_halign(fa_left);
