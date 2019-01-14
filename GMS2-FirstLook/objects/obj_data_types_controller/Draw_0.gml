@@ -19,5 +19,15 @@ draw_text(room_width * .5, line_height * 4, "-300 in boolean resolves to: " + st
 //Show string concatonation on fifth line
 draw_text(room_width * .5, line_height * 5, "Hello " + first_name + " " + last_name + "!" );
 
+//Show result of if statement on sixth line
+if(true)
+{
+	draw_text(room_width * .5, line_height * 6, "the if statement is true" );
+}
+else
+{
+	draw_text(room_width * .5, line_height * 6, "the if statement is false" );
+}
+
 //Return the alignment to its default setting
 draw_set_halign(fa_left);
