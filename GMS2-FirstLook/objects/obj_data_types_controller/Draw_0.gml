@@ -29,5 +29,15 @@ else
 	draw_text(room_width * .5, line_height * 6, "the if statement is false" );
 }
 
+//Show result of a comparison operator on seventh line
+if (age >= 18)
+{
+	draw_text(room_width * .5, line_height * 7, first_name + " is an adult." );
+}
+else
+{
+	draw_text(room_width * .5, line_height * 7, first_name + " is a minor." );
+}
+
 //Return the alignment to its default setting
 draw_set_halign(fa_left);
