@@ -20,7 +20,7 @@ draw_text(room_width * .5, line_height * 4, "-300 in boolean resolves to: " + st
 draw_text(room_width * .5, line_height * 5, "Hello " + first_name + " " + last_name + "!" );
 
 //Show result of if statement on sixth line
-if(true)
+if(false)
 {
 	draw_text(room_width * .5, line_height * 6, "the if statement is true" );
 }
