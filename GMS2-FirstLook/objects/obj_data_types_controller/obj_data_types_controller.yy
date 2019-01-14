@@ -59,6 +59,34 @@
             "value": "32",
             "varName": "line_height",
             "varType": 0
+        },
+        {
+            "id": "7dca8826-bfac-43ce-9f18-091da74380c2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Denham",
+            "varName": "last_name",
+            "varType": 2
+        },
+        {
+            "id": "c0f25177-e426-498e-afe8-4eca6fb86339",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Brady",
+            "varName": "first_name",
+            "varType": 2
         }
     ],
     "solid": false,
