@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "06087be5-c18f-471f-a68c-942e7ceea977",
+            "Value": {
+                "id": "6022d5fc-af1d-4d67-80cd-0a34099f7047",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_square_movement\/obj_square_movement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "072c6b84-8a5f-4301-8649-2fec4ab8cd43",
             "Value": {
                 "id": "8c6b748b-b0ef-4bca-af74-1fb6be3913d1",
@@ -815,6 +834,25 @@
                 ],
                 "resourcePath": "views\/24cce84c-008c-4365-bfef-c8bc529eec09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "27098888-5cec-4629-88a0-13a059f16330",
+            "Value": {
+                "id": "6880b91e-0e7f-40d9-9e7c-634ed1d49980",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_movement_draw\/scr_movement_draw.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -5226,6 +5264,25 @@
             }
         },
         {
+            "Key": "da88d43c-d810-487f-ae00-388ace97010a",
+            "Value": {
+                "id": "a50b7eb0-b1dc-4041-a760-6ce0b5a706f5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_movement\/room_movement.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "db28b616-64f4-4d03-b525-fc4095a6f229",
             "Value": {
                 "id": "59217af0-2ad4-40a9-a4f3-76860c860055",
@@ -5546,6 +5603,25 @@
                 ],
                 "resourcePath": "views\/ed25830b-01b2-4386-a58b-98085336a374.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed6c2758-cf4f-43f7-96ef-76240c88007b",
+            "Value": {
+                "id": "c3281ce0-4f33-48f0-bc3b-d747266b83cd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_movement_controller\/obj_movement_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -6063,7 +6139,8 @@
         }
     ],
     "script_order": [
-        "18d04198-4e01-4612-af09-87f161af09b8"
+        "18d04198-4e01-4612-af09-87f161af09b8",
+        "27098888-5cec-4629-88a0-13a059f16330"
     ],
     "tutorial": "datafiles"
 }
