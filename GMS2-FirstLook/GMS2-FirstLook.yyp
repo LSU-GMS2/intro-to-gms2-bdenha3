@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "0a5dbd95-e968-4077-95d8-a2337c60ad24",
+            "Value": {
+                "id": "165e4e3f-b654-4635-8190-da3eff2e3a1a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_square\/obj_square.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ba9a046-d25f-4ec8-877d-4b19ececc78e",
             "Value": {
                 "id": "d80e9472-11ad-48c5-b3e2-f46a000520f4",
@@ -1141,6 +1160,25 @@
             }
         },
         {
+            "Key": "36d3f2f1-9c61-43fd-b9eb-e6240abbd474",
+            "Value": {
+                "id": "6b1d6fc3-8abc-467b-89f6-234a720ee213",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_triangle\/spr_triangle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37700e2d-0966-4bea-968b-26306b27df1c",
             "Value": {
                 "id": "db7a676a-4af9-4311-b4e8-5793971eed23",
@@ -1746,6 +1784,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/AddStepToSquareObject.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "54ffb743-9b5d-4feb-828a-95e25c34fb45",
+            "Value": {
+                "id": "fd898a2f-24bd-426f-9c6c-3a0e603a0be2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_square\/spr_square.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2357,6 +2414,25 @@
             }
         },
         {
+            "Key": "6e083550-77df-4d8b-8f94-35e452f61675",
+            "Value": {
+                "id": "ddd3223b-b5cb-45c0-adc2-07e70bcebd5b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_circle\/obj_circle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6eafdd1a-f6e9-473f-ba22-0eba3637e88e",
             "Value": {
                 "id": "fc691504-8cff-424d-90de-693a91b9e976",
@@ -2430,6 +2506,25 @@
                 ],
                 "resourcePath": "views\/70757b46-d6ca-437b-9649-299831faedc8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70973019-b5b4-4882-be55-979a5767b2f6",
+            "Value": {
+                "id": "3786eaf9-1974-4e26-9934-aae36c0318fe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_triangle\/obj_triangle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2563,6 +2658,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch1\/images\/AddDescriptionToDataTypes.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7755df7c-9c87-4ee1-85ed-43c49c817e50",
+            "Value": {
+                "id": "11716d3c-2310-49a2-99d8-8bff54beb5bc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_circle\/spr_circle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

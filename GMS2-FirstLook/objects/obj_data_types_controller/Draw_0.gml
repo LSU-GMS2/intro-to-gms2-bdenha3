@@ -81,4 +81,6 @@ draw_set_color(c_yellow);
 
 draw_line(0, line_height * 19, room_width, line_height * 19);
 
+draw_line(0, line_height * 23, room_width, line_height * 23);
+
 draw_set_color(c_white);
