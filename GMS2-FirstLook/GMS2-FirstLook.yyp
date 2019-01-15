@@ -3554,6 +3554,25 @@
             }
         },
         {
+            "Key": "9922b0ad-349c-4e6a-baf8-6de12b0c5bd1",
+            "Value": {
+                "id": "587fa043-8d8a-4d07-baea-3cf6698cc99e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_circle_movement\/obj_circle_movement.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "99798c20-97b3-4080-8e52-432b0844fea6",
             "Value": {
                 "id": "af449fc5-f559-481a-abcf-07dd47d2836b",
