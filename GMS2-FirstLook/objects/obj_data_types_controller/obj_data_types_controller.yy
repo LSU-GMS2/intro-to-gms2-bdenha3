@@ -56,7 +56,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "32",
+            "value": "22",
             "varName": "line_height",
             "varType": 0
         },
