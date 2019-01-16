@@ -1,11 +1,11 @@
 # GameMaker Assignment #1
 
-John Smith
+Brady Denham
 
 This is my submission for Assignment #1.
 
 I had issues with:
-* issue 1
+* finding the starting positions for the objects
 * issue 2
 * issue 3
 
