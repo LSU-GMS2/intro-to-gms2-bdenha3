@@ -1,4 +1,4 @@
-/// @description Triangle Alarm 1
+/// @description Move to Start
 
 x = 384;
 y = 192;
